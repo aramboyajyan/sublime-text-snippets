@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+;-------------------------------------------------------------------------------
+; Created by: Topsitemakers
+; 
+; All rights reserved
+; http://www.topsitemakers.com/
+; http://www.varbo.cz/
+;-------------------------------------------------------------------------------
+name = ${1:Module}
+description = ${2:Description}
+package = ${3:Package}
+core = ${4:6}.x
+; dependencies[] = ${5:dependencies}
+]]></content>
+  <tabTrigger>drupalmoduleinfoc</tabTrigger>
+</snippet>

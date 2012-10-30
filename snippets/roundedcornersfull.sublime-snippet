@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+                     /* Top left */
+    -webkit-border-top-left-radius: ${1}px;
+        -moz-border-radius-topleft: ${1}px;
+            border-top-left-radius: ${1:5}px;
+                    /* Top right */
+   -webkit-border-top-right-radius: ${2}px;
+       -moz-border-radius-topright: ${2}px;
+           border-top-right-radius: ${2:5}px;
+                 /* Bottom right */
+-webkit-border-bottom-right-radius: ${3}px;
+    -moz-border-radius-bottomright: ${3}px;
+        border-bottom-right-radius: ${3:5}px;
+                  /* Bottom left */
+ -webkit-border-bottom-left-radius: ${4}px;
+     -moz-border-radius-bottomleft: ${4}px;
+         border-bottom-left-radius: ${4:5}px;
+]]></content>
+	<tabTrigger>roundedcornersfull</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

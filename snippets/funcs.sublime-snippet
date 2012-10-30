@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Description}
+ *
+ * Created by: Topsitemakers
+ * http://www.topsitemakers.com/
+ */
+function ${2:function_name}(${3}) {
+  ${4}
+}
+]]></content>
+	<tabTrigger>funcs</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

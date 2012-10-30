@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+name = ${1:Module}
+description = ${2:Description}
+package = ${3:Package}
+core = ${4:6}.x
+; dependencies[] = ${5:dependencies}
+]]></content>
+  <tabTrigger>drupalmoduleinfo</tabTrigger>
+</snippet>

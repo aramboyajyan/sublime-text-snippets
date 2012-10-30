@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+-webkit-border-radius: 0;
+   -moz-border-radius: 0;
+        border-radius: 0;
+]]></content>
+	<tabTrigger>noroundedcorners</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

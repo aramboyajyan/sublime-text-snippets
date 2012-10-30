@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Comment}
+ *
+ * Created by: Topsitemakers
+ * http://www.topsitemakers.com/
+ */
+]]></content>
+	<tabTrigger>comms</tabTrigger>
+</snippet>

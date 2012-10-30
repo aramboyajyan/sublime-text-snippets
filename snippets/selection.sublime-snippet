@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+::selection,
+::-moz-selection,
+::-webkit-selection {
+  background: #${1};
+  color: #${2};
+}
+]]></content>
+  <tabTrigger>selection</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

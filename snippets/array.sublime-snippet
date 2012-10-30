@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[array(
+  ${1}
+)${2}]]></content>
+  <tabTrigger>array</tabTrigger>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[/**
+ * @file
+ * ${1}
+ *
+ * Created by: Topsitemakers
+ * http://www.topsitemakers.com/
+ */
+]]></content>
+  <tabTrigger>commsf</tabTrigger>
+</snippet>

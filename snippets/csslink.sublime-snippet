@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<link type="text/css" rel="stylesheet" href="${1}.css" />
+]]></content>
+	<tabTrigger>csslink</tabTrigger>
+</snippet>

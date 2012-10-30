@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript">
+\$(document).ready(function(){
+  ${1}
+});
+</script>
+]]></content>
+	<tabTrigger>jquerystart</tabTrigger>
+</snippet>

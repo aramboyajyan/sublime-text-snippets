@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+Flight::route('/${1}', function(){
+  Flight::render('layout', array(
+    'title' => '${2}',
+    'content' => '${3}',
+    // 'load' => '${4}',
+  ));
+});
+]]></content>
+  <tabTrigger>flight</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

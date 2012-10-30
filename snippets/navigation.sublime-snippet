@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<ul>
+  <li><a>Link</a></li>
+  <li><a>Link</a></li>
+  <li><a>Link</a></li>
+  <li><a>Link</a></li>
+  <li><a>Link</a></li>
+</ul>
+]]></content>
+  <tabTrigger>navigation</tabTrigger>
+</snippet>

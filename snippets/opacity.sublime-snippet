@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+opacity: 0.${1:80};
+-moz-opacity: 0.${1};
+filter:alpha(opacity=${1});
+]]></content>
+  <tabTrigger>opacity</tabTrigger>
+  <scope>source.css</scope>
+</snippet>
