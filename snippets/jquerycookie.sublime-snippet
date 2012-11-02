@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.2/jquery.cookie.js"></script>
+]]></content>
+	<tabTrigger>jquerycookie</tabTrigger>
+</snippet>
