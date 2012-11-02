@@ -21,6 +21,7 @@ Updated Bootstrap CDN links to the latest version (v2.2.1).
     - [LessJS](http://lesscss.org/)
     - [SammyJS](http://sammyjs.org/)
     - [RaphaelJS](http://raphaeljs.com/)
+    - Blank Drupal 6 and 7 module .info files
 
 <hr>
 
