@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<link type="text/css" rel="stylesheet" href="//necolas.github.com/normalize.css/2.0.1/normalize.css" />
+]]></content>
+  <tabTrigger>normalize</tabTrigger>
+</snippet>

@@ -23,6 +23,10 @@ Updated Bootstrap CDN links to the latest version (v2.2.1).
     - [RaphaelJS](http://raphaeljs.com/)
     - Blank Drupal 6 and 7 module .info files
 
+### November 8, 2012
+
+Added [normalize.css](http://necolas.github.com/normalize.css/) v2.0.1
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
