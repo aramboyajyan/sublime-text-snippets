@@ -27,6 +27,10 @@ Updated Bootstrap CDN links to the latest version (v2.2.1).
 
 Added [normalize.css](http://necolas.github.com/normalize.css/) v2.0.1 to the snippets and included in `html5` and `html5jquery`.
 
+### November 10, 2012
+
+Added GMaps link.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
