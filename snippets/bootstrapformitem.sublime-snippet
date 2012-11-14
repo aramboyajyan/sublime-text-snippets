@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<div class="control-group">
+  <label class="control-label" for="${3:field}">${1:Label}</label>
+  <div class="controls">
+    <input type="text" id="${3:field}" placeholder="${2:Placeholder}">
+  </div>
+</div>
+]]></content>
+  <tabTrigger>bootstrapformitem</tabTrigger>
+</snippet>

@@ -33,7 +33,8 @@ Added GMaps link.
 
 ### November 14, 2012
 
-jQuery CDN link updated to 1.8.3.
+jQuery CDN link updated to 1.8.3.  
+Added snippet for generating bootstrap horizontal form items.
 
 <hr>
 
