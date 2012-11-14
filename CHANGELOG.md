@@ -31,6 +31,10 @@ Added [normalize.css](http://necolas.github.com/normalize.css/) v2.0.1 to the sn
 
 Added GMaps link.
 
+### November 14, 2012
+
+jQuery CDN link updated to 1.8.3.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
