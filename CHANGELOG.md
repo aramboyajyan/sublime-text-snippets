@@ -36,6 +36,10 @@ Added GMaps link.
 jQuery CDN link updated to 1.8.3.  
 Added snippet for generating bootstrap horizontal form items.
 
+### November 17, 2012
+
+[AddThis](http://www.addthis.com/) snippets for JS and basic HTML.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).

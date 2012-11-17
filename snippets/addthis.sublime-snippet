@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=${1:topsitemakers}"></script>
+]]></content>
+  <tabTrigger>addthis</tabTrigger>
+</snippet>
