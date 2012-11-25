@@ -40,6 +40,10 @@ Added snippet for generating bootstrap horizontal form items.
 
 [AddThis](http://www.addthis.com/) snippets for JS and basic HTML.
 
+### November 25, 2012
+
+Python comments with signature (`comms`).
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
