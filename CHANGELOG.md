@@ -44,6 +44,10 @@ Added snippet for generating bootstrap horizontal form items.
 
 Python comments with signature (`comms`).
 
+### December 10, 2012
+
+Bootstrap CSS and JS links updated to 2.2.2.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
