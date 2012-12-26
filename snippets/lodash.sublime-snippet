@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.0.0-rc.3/lodash.min.js"></script>]]></content>
+  <tabTrigger>lessjs</tabTrigger>
+</snippet>

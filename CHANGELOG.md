@@ -48,6 +48,10 @@ Python comments with signature (`comms`).
 
 Bootstrap CSS and JS links updated to 2.2.2.
 
+### December 26, 2012
+
+Adding [Lodash](http://lodash.com)
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
