@@ -52,6 +52,10 @@ Bootstrap CSS and JS links updated to 2.2.2.
 
 Adding [Lodash](http://lodash.com)
 
+### January 13, 2013
+
+Adding [Backbone local storage](http://documentcloud.github.com/backbone/docs/backbone-localstorage.html)
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
