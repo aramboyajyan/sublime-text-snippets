@@ -56,6 +56,10 @@ Adding [Lodash](http://lodash.com)
 
 Adding [Backbone local storage](http://documentcloud.github.com/backbone/docs/backbone-localstorage.html)
 
+### January 15, 2013
+
+Adding [Zepto](http://zeptojs.com)
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
