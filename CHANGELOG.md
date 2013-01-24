@@ -60,6 +60,10 @@ Adding [Backbone local storage](http://documentcloud.github.com/backbone/docs/ba
 
 Adding [Zepto](http://zeptojs.com)
 
+### January 24, 2013
+
+Adding [AngularJS](http://www.angularjs.org)
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
