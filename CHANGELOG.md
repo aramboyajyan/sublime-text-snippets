@@ -64,6 +64,10 @@ Adding [Zepto](http://zeptojs.com)
 
 Adding [AngularJS](http://www.angularjs.org)
 
+### February 05, 2013
+
+Adding `print_r()` snippet with `<pre>` tags.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).

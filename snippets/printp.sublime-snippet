@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[print '<pre>' . print_r(${1:variable}, TRUE) . '</pre>';]]></content>
+  <tabTrigger>printp</tabTrigger>
+  <scope>source.php</scope>
+</snippet>
