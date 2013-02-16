@@ -68,6 +68,10 @@ Adding [AngularJS](http://www.angularjs.org)
 
 Adding `print_r()` snippet with `<pre>` tags.
 
+### February 16, 2013
+
+Adding separator for plain text files.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
