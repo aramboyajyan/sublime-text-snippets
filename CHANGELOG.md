@@ -72,6 +72,10 @@ Adding `print_r()` snippet with `<pre>` tags.
 
 Adding separator for plain text files.
 
+### February 20, 2013
+
+Adding [JSON3](http://bestiejs.github.com/json3) library.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
