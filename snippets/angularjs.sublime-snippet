@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular.min.js"></script>
 ]]></content>
 	<tabTrigger>angularjs</tabTrigger>
 </snippet>
