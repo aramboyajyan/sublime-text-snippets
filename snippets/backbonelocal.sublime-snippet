@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/backbone-localstorage.js/1.0/backbone.localStorage-min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/backbone-localstorage.js/1.1.0/backbone.localStorage-min.js"></script>
 ]]></content>
   <tabTrigger>backbonelocal</tabTrigger>
 </snippet>
