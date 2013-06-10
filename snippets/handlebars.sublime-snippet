@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.rc.1/handlebars.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0/handlebars.min.js"></script>
 ]]></content>
   <tabTrigger>handlebars</tabTrigger>
 </snippet>
