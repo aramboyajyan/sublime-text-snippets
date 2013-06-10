@@ -1,7 +1,13 @@
 <snippet>
   <content><![CDATA[
-::selection,
-::-moz-selection,
+::selection {
+  background: #${1};
+  color: #${2};
+}
+::-moz-selection {
+  background: #${1};
+  color: #${2};
+}
 ::-webkit-selection {
   background: #${1};
   color: #${2};
