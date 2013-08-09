@@ -76,6 +76,12 @@ Adding separator for plain text files.
 
 Adding [JSON3](http://bestiejs.github.com/json3) library.
 
+### August 9
+
+- Adding Bootstrap v3
+- Separating Bootstrap versions 2 and 3
+- Renaming the bootstrap tabTrigger to "bs[version][css/js]"
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
