@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0-rc1/css/bootstrap.min.css" />
+<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/css/bootstrap.min.css" />
 ]]></content>
   <tabTrigger>bs3css</tabTrigger>
 </snippet>
