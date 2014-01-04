@@ -1,4 +1,4 @@
 <snippet>
-  <content><![CDATA[<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.js"></script>]]></content>
+  <content><![CDATA[<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.js"></script>]]></content>
   <tabTrigger>bs3js</tabTrigger>
 </snippet>
