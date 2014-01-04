@@ -1,21 +1,21 @@
 <snippet>
 	<content><![CDATA[
                      /* Top left */
-    -webkit-border-top-left-radius: ${1}px;
+    -webkit-border-top-left-radius: ${1:5}px;
         -moz-border-radius-topleft: ${1}px;
-            border-top-left-radius: ${1:5}px;
+            border-top-left-radius: ${1}px;
                     /* Top right */
-   -webkit-border-top-right-radius: ${2}px;
+   -webkit-border-top-right-radius: ${2:5}px;
        -moz-border-radius-topright: ${2}px;
-           border-top-right-radius: ${2:5}px;
+           border-top-right-radius: ${2}px;
                  /* Bottom right */
--webkit-border-bottom-right-radius: ${3}px;
+-webkit-border-bottom-right-radius: ${3:5}px;
     -moz-border-radius-bottomright: ${3}px;
-        border-bottom-right-radius: ${3:5}px;
+        border-bottom-right-radius: ${3}px;
                   /* Bottom left */
- -webkit-border-bottom-left-radius: ${4}px;
+ -webkit-border-bottom-left-radius: ${4:5}px;
      -moz-border-radius-bottomleft: ${4}px;
-         border-bottom-left-radius: ${4:5}px;
+         border-bottom-left-radius: ${4}px;
 ]]></content>
 	<tabTrigger>roundedcornersfull</tabTrigger>
 	<scope>source.css</scope>
