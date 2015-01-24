@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+-webkit-appearance: none;
+   -moz-appearance: none;
+        appearance: none;
+]]></content>
+  <tabTrigger>appearance</tabTrigger>
+</snippet>
